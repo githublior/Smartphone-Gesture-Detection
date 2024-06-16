@@ -8,3 +8,7 @@ At first, given a fixed period of time, the program should detect whether or not
 Finally, the program should complete the same prediction given smartphones sensors data accumulated during an hour in a row.
 
 Dead line : 4 weeks.				
+
+
+# complementary resources colab:
+https://colab.research.google.com/drive/1H6Qtb151FJpy0tIPqGGthSXcM507tWHy
