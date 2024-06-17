@@ -1,7 +1,7 @@
 # Smartphone-Gesture-Detection
 
 Make a program enable to detect a specific body movement performed by a user handling his smartphone.
-3 smartphone sensors  only are allowed : Accelerometer, Gyroscope, and Magnetic Field.
+Using 3 smartphone sensors: Accelerometer, Gyroscope, and Magnetic Field.
 
 At first, given a fixed period of time, the program should detect whether or not the specific movement was completed during the time window, and if so , the program should evaluate the start and the end of the movement during the time window.
 
